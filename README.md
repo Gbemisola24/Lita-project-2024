@@ -26,6 +26,8 @@ Visualization: created charts and graphs to visualize trends and patterns
 
 #TOOLS USED
 Microsoft excel... used for cleaning,used the formulas to calculate metrics such as average sales per product and total revenue by region, pivot tables to summarise total sales by product,region and month.
+
 Microsoft SQL ..used to write querries to retrieve total sales by product,number of sales transactions in each region, highest selling product by total sales value, total revenue by product, monthly sales total for current year, top 5customers by total purchase amount , percentage of total sales contributed by each region, identify products with no sales in the last quarter 
+
 Power bi ... used to create a dashboard that visualoze the insight found in Excel and SQL.
 
