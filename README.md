@@ -1,7 +1,7 @@
 # Lita-project-2024
 Project done during ladies in tech africa training 
 PROJECT ONE: SALES PERFORMANCE ANALYSIS FOR A RETAIL STORE 
-ABSTRACT 
+# ABSTRACT 
 This project analyses the sals perfromance of a retail store . Explore ales data to uncover key insight such as top selling products ,regional perfromance and monthly sales trends. 
 The goal is to produce an interactive power bi dashboard that highlight those findings . 
 
