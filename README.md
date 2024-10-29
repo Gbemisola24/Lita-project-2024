@@ -17,7 +17,7 @@ Order date: Date the goods were ordered
 Quantity
 Unity price 
 
-#METHODOLOGY
+# METHODOLOGY
 The data was cleaned using excel software and new column was added for "Total Revenue"
 
 # EXPLORATORY DATA ANALYSIS 
